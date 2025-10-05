@@ -32,6 +32,7 @@ Marlon</a></h1>
 - ⚙️ Interested in **DevOps, Docker, AWS**, and modern backend frameworks.  
 - 🚀 Constantly learning and improving as a **developer and team collaborator**.  
 - 💼 Open to new **career challenges** in enterprise-grade software development.  
-- 🌐 Visit my [**GitHub Profile**](https://github.com/marlon22jaim).  
+- 🌐 Visit my [**GitHub Profile**](https://github.com/marlon22jaim).
+- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/marlon-andres-jaimes-rangel-047898171/). 
 
 <br>
