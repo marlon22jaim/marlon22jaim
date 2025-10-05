@@ -33,6 +33,6 @@ Marlon</a></h1>
 - 🚀 Constantly learning and improving as a **developer and team collaborator**.  
 - 💼 Open to new **career challenges** in enterprise-grade software development.  
 - 🌐 Visit my [**GitHub Profile**](https://github.com/marlon22jaim).
-- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/marlon-andres-jaimes-rangel-047898171/). 
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/marlon-andres-jaimes-rangel-047898171/" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a>.
 
 <br>
